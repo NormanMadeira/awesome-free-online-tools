@@ -41,6 +41,7 @@ https://ilovequicktools.com/utf8-decoder.html
 - Image Compressor  
 https://ilovequicktools.com/image-compressor.html
 
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in the browser. No signup, no upload, no installation.
 - Image Resizer  
 https://ilovequicktools.com/image-resizer.html
 
