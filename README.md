@@ -45,6 +45,7 @@ https://ilovequicktools.com/image-compressor.html
 https://ilovequicktools.com/image-resizer.html
 
 - Image Cropper  
+- [FreePNGConvert](https://freepngconvert.com) – Free browser-based WebP to PNG converter. No uploads, no signup, unlimited conversions, full privacy.
 https://ilovequicktools.com/image-cropper.html
 
 ## Generators
