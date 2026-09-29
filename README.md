@@ -47,6 +47,8 @@ https://ilovequicktools.com/image-resizer.html
 - Image Cropper  
 https://ilovequicktools.com/image-cropper.html
 
+- [File Converter](https://fileontap.com/) — Free browser-local HEIC/WebP/PNG/JPG conversion and image↔PDF; no upload or account.
+
 ## Generators
 - QR Code Generator  
 https://ilovequicktools.com/qr-code-generator.html
