@@ -18,6 +18,8 @@ https://ilovequicktools.com/simple-calculator.html
 - Loan Calculator  
 https://ilovequicktools.com/loan-calculator.html
 
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — US roof replacement cost ranges by size, material, location, and tear-off.
+
 ## Developer Tools
 - JSON Formatter  
 https://ilovequicktools.com/json-formatter.html
